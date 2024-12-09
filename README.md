@@ -1,2 +1,2 @@
-# Project---Java---Average-Value-GPA
-Hi Everyone 👋. This is my first project using Java Languages 
+# Project---Java---Calculate-GPA-Average-Value
+Hi Everyone 👋. This is my first project using Java Language 
